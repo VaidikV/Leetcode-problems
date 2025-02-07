@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9995766b-2dfe-433e-9587-54bfee4fb2d5" name="Changes" comment="solved problems">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contains_duplicate_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find_all_missing_nos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min_abs_diff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min_size_subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minimum_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/missing_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smaller_than.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spiral_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/two_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/climbing_stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coin_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counting bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked list cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max subarray dp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle of linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/range sum query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove linked list elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reversed linked list II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reversed linked list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,30 +57,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.3sum.executor": "Run",
-    "Python.buy sell stock.executor": "Run",
-    "Python.contains_duplicate_2.executor": "Run",
-    "Python.duplicates.executor": "Run",
-    "Python.find_all_missing_nos.executor": "Run",
-    "Python.min_abs_diff.executor": "Run",
-    "Python.min_size_subarray.executor": "Run",
-    "Python.minimum_time.executor": "Run",
-    "Python.missing_numbers.executor": "Run",
-    "Python.number of islands.executor": "Run",
-    "Python.smaller_than.executor": "Run",
-    "Python.sorted array square.executor": "Run",
-    "Python.spiral_matrix.executor": "Run",
-    "Python.two_sum.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/vaidik/Development/PycharmProjects/Leetcode-problems",
-    "settings.editor.selected.configurable": "editor.preferences.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.3sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.buy sell stock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.climbing_stairs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coin_change.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contains_duplicate_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.counting bits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_all_missing_nos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max subarray dp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min_abs_diff.executor&quot;: &quot;Run&quot;,
+    &quot;Python.min_size_subarray.executor&quot;: &quot;Run&quot;,
+    &quot;Python.minimum_time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.missing_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.number of islands.executor&quot;: &quot;Run&quot;,
+    &quot;Python.range sum query.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reversed linked list II.executor&quot;: &quot;Run&quot;,
+    &quot;Python.smaller_than.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorted array square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spiral_matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.two_sum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vaidik/Development/PycharmProjects/Leetcode-problems&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.min_size_subarray">
-    <configuration name="3sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.reversed linked list II">
+    <configuration name="climbing_stairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode-problems" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/climbing_stairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="contains_duplicate_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="counting bits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode-problems" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contains_duplicate_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/counting bits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="min_abs_diff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="max subarray dp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode-problems" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/min_abs_diff.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/max subarray dp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="min_size_subarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="range sum query" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode-problems" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/min_size_subarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/range sum query.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sorted array square" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reversed linked list II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode-problems" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,7 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sorted array square.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reversed linked list II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.min_size_subarray" />
-        <item itemvalue="Python.min_abs_diff" />
-        <item itemvalue="Python.3sum" />
-        <item itemvalue="Python.contains_duplicate_2" />
-        <item itemvalue="Python.sorted array square" />
+        <item itemvalue="Python.reversed linked list II" />
+        <item itemvalue="Python.range sum query" />
+        <item itemvalue="Python.counting bits" />
+        <item itemvalue="Python.max subarray dp" />
+        <item itemvalue="Python.climbing_stairs" />
       </list>
     </recent_temporary>
   </component>
@@ -223,11 +230,20 @@
       <option name="project" value="LOCAL" />
       <updated>1730951616746</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="solved problems">
+      <option name="closed" value="true" />
+      <created>1736420209898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736420209898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding initial files" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding initial files" />
+    <MESSAGE value="solved problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved problems" />
   </component>
 </project>
