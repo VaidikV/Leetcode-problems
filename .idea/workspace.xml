@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9995766b-2dfe-433e-9587-54bfee4fb2d5" name="Changes" comment="solved problems">
-      <change afterPath="$PROJECT_DIR$/climbing_stairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coin_change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/counting bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked list cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/max subarray dp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle of linked_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/range sum query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remove linked list elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reversed linked list II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reversed linked list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/single_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/remove linked list elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/remove linked list elements.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736420209898</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="solved problems">
+      <option name="closed" value="true" />
+      <created>1738911913018</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738911913018</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
